@@ -1,0 +1,9 @@
+[package]
+name = "rust-web-server"
+version = "0.1.0"
+authors = ["Tom Forbes <tom@tomforb.es>"]
+edition = "2018"
+
+[dependencies]
+num_cpus = "1.0"
+crossbeam-channel = "0.3"
